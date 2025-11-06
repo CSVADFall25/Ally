@@ -7,7 +7,7 @@
     Deep  = Blue
     Core  = Purple
     REM   = Magenta
-    Awake = Yellow
+    Awake = Yellow 
     In Bed = Green
 
   Size corresponds to the sleep duration (larger = longer sleep)
