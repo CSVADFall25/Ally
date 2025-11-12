@@ -1,4 +1,4 @@
-# Venmo Network: A Data Portrait
+# Venmo Network
 
 ### Overview
 
@@ -21,7 +21,7 @@ After cleaning, another script (merge_cleaned_files.py) merges all monthly clean
 
 This cleaned dataset is the one read by the p5.js sketch.
 
-### Visualization Functionality
+### Functionality
 
 The visualization runs entirely in the browser using p5.js. It loads the cleaned CSV, processes each transaction, and builds a dynamic network graph.
 
