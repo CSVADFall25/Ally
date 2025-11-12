@@ -135,12 +135,10 @@ function updateGraph() {
     if (from === "Ally") from = "You";
     if (to === "Ally") to = "You";
 
-    // source filter
-// ---- Source filter (robust) ----
     let involvesBank = false;
     const colCount = table.getColumnCount();
     for (let ci = 0; ci < colCount; ci++) {
-      const val = table.getString(r, ci);   // <- use column index, not a title
+      const val = table.getString(r, ci);  
       if (val && String(val).toLowerCase().includes("bank")) {
         involvesBank = true;
         break;
