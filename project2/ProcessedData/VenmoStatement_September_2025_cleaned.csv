@@ -1,0 +1,13 @@
+Unnamed: 0,ID,Datetime,Type,Status,From,To,Amount (total),Amount (tip),Amount (tax),Amount (fee),Tax Rate,Tax Exempt,Funding Source,Destination,Beginning Balance,Ending Balance,Statement Period Venmo Fees,Terminal Location,Year to Date Venmo Fees,Disclaimer
+,,,,,,,,,,,,,,,$32.72,,,,,
+,4.412362592070838e+18,2025-09-01T21:36:49,Payment,Complete,Ally,Ying,- $200.00,,0.0,,0.0,,Bank,,,,,Venmo,,
+,4.4132283724334305e+18,2025-09-03T02:16:58,Payment,Complete,Ally,Michael,- $1.00,,0.0,,0.0,,Venmo balance,,,,,Venmo,,
+,4.413948878799424e+18,2025-09-04T02:08:29,Payment,Complete,Ally,Kaylie,- $25.80,,0.0,,0.0,,Venmo balance,,,,,Venmo,,
+,4.42053685895576e+18,2025-09-13T04:17:38,Payment,Complete,Ally,Katy,- $12.00,,0.0,,0.0,,Bank,,,,,Venmo,,
+,4.421336175120156e+18,2025-09-14T06:45:44,Payment,Complete,Ally,Ying,- $239.00,,0.0,,0.0,,Bank,,,,,Venmo,,
+,4.4255036966520325e+18,2025-09-20T00:45:51,Payment,Complete,Ally,Sandhya,- $17.00,,0.0,,0.0,,Bank,,,,,Venmo,,
+,4.427730995883359e+18,2025-09-23T02:31:06,Payment,Complete,Kaylie,Ally,+ $19.61,,0.0,,0.0,,,Venmo balance,,,,Venmo,,
+,4.429053135127085e+18,2025-09-24T22:17:57,Payment,Complete,Ally,Ying,- $100.00,,0.0,,0.0,,Bank,,,,,Venmo,,
+,4.431952566005179e+18,2025-09-28T22:18:36,Payment,Complete,Ysabel,Ally,+ $10.10,,0.0,,0.0,,,Venmo balance,,,,Venmo,,
+,4.432756792322307e+18,2025-09-30T00:56:27,Payment,Complete,Ally,Kay,- $3.50,,0.0,,0.0,,Venmo balance,,,,,Venmo,,
+,4.4327587364664607e+18,2025-09-30T01:00:19,Payment,Complete,Kay,Ally,+ $1.50,,0.0,,0.0,,,Venmo balance,,,,Venmo,,
