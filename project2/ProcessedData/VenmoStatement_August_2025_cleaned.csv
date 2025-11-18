@@ -1,5 +1,5 @@
 Unnamed: 0,ID,Datetime,Type,Status,From,To,Amount (total),Amount (tip),Amount (tax),Amount (fee),Tax Rate,Tax Exempt,Funding Source,Destination,Beginning Balance,Ending Balance,Statement Period Venmo Fees,Terminal Location,Year to Date Venmo Fees,Disclaimer
-,,,,,,,,,,,,,,,$37.96,,,,,
+,,,,,,,,,,,,,,,,,,,,
 ,4.389837509670433e+18,2025-08-01T19:43:30,Payment,Complete,Ally,Katy,- $14.00,,0.0,,0.0,,Venmo balance,,,,,Venmo,,
 ,4.3937862321209846e+18,2025-08-07T06:28:55,Payment,Complete,Lilly,Ally,+ $40.00,,0.0,,0.0,,,Venmo balance,,,,Venmo,,
 ,4.3937864611558456e+18,2025-08-07T06:29:22,Payment,Complete,Lilly,Ally,+ $86.00,,0.0,,0.0,,,Venmo balance,,,,Venmo,,
